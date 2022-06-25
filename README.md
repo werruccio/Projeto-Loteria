@@ -1,5 +1,5 @@
 ### Projeto Loteria
-    Projeto desenvolvido com base do desafio Front-end da Brainn
+    Projeto desenvolvido com base do desafio Front-end da Brainn usando React
 
 ### Imagens
 ![175782956-4e495d71-3ce3-45b2-951d-90d52d974bac](https://user-images.githubusercontent.com/94694624/175791883-bddc44ca-b97a-407f-9fef-d65c4893cd6a.png)
